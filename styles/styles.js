@@ -48,11 +48,8 @@ export default StyleSheet.create({
     listContainer: {
       width: "100%"
     },
-    modalContainer: {
+    placeDetailContainer: {
       margin: 25
-    },
-    modalContainer: {
-    margin: 22
     },
 
     placeImageLg: {
